@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "hyperid": "^3.3.0",
-    "inherits": "^2.0.4",
     "ioredis": "^5.6.0",
     "lru-cache": "^11.1.0",
     "mqemitter": "^6.0.2",
